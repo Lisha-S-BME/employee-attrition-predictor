@@ -1,0 +1,33 @@
+============================================================
+EMPLOYEE ATTRITION PREDICTION - HR SUMMARY
+============================================================
+
+TO: HR Director
+FROM: Data Science Intern
+SUBJECT: Key Findings on Employee Attrition
+
+Based on our analysis of employee data, here are the key findings:
+
+1. TOP 3 FACTORS PREDICTING ATTRITION:
+   - Jobrole Laboratory Technician
+   - Overtime Yes
+   - Businesstravel Travel Frequently
+
+2. HIGHEST RISK DEPARTMENTS:
+   - Sales department has the highest attrition rate at 20.6%
+   - Sales Representative role has the highest attrition at 39.8%
+
+3. SALARY INSIGHTS:
+   - Employees who left earned $2,045.65 less on average
+   - Salary alone does not explain attrition
+
+4. CONCRETE HR RECOMMENDATIONS:
+   a) Conduct stay interviews with employees working overtime
+   b) Target retention efforts on Sales department
+   c) Review compensation for WorkLifeBalance rating 1 employees
+   d) Implement mentorship programs at 3-5 year tenure milestones
+
+5. MODEL LIMITATIONS:
+   - Predicts based on historical patterns, not guaranteed future
+   - Cannot capture personal reasons like family relocation
+   - Should be used as screening tool, not sole basis for decisions
